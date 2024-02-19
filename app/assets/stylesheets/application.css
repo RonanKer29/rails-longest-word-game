@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+
+li {
+  background-color: rgb(96, 152, 242) !important;
+}
